@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageButton
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="60dp"
+    android:layout_height="60dp"
+    android:background="@drawable/button_background"
+    android:stateListAnimator="@animator/mtrl_btn_unelevated_state_list_anim"
+    app:elevation="0dp"
+    android:src="@drawable/link"
+    app:rippleColor="@color/text_btn_ripple_color"
+    android:scaleType="centerCrop"/>

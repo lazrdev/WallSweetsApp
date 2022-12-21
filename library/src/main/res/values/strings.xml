@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="app_name">Frames</string>
+    <string name="license_valid_snack">@string/license_valid_content</string>
+    <string name="lazar_description">Main developer, designer</string>
+    <string name="qirkl_description">Designer</string>
+    <string name="frames_description">Base Dashboard for our App</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">v2.1</string>
+    <string name="chglog">· Added Updates and GitHub buttons\n · Replaced icon in menu and about\n · About Screen items modifications</string>
+    <string name="chnglog_title">3.0 Major Release</string>
+    <string name="team">Team</string>
+    <string name="menu">Menu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="widget_description">Simple Digital Clock Widget</string>
+    <string name="at_glance_description">Simple At A Glance Widget</string>
+    <string name="title_activity_new_settings">NewSettingsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_settings_new">SettingsActivityNew</string>
+    <string name="appwidget_text">Search</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="github">GitHub</string>
+    <string name="updates">Updates</string>
+</resources>

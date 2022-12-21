@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Frames.SplashScreen.Amoled" parent="Frames.SplashScreen" tools:ignore="NewApi">
+        <item name="android:windowBackground">@drawable/splash_screen_amoled</item>
+
+        <item name="colorPrimary">@color/amoledThemePrimary</item>
+        <item name="colorPrimaryDark">@color/amoledThemePrimaryDark</item>
+        <item name="colorAccent">@color/amoledThemeAccent</item>
+
+        <item name="colorPrimaryVariant">@color/amoledThemePrimaryDark</item>
+        <item name="colorOnPrimary">@color/amoledThemeOnPrimary</item>
+
+        <item name="colorSecondary">@color/amoledThemeAccent</item>
+        <item name="colorSecondaryVariant">@color/amoledThemeAccent</item>
+        <item name="colorOnSecondary">@color/amoledThemeOnAccent</item>
+
+        <item name="colorSurface">@color/amoledThemeSurface</item>
+        <item name="colorOnSurface">@color/amoledThemeOnSurface</item>
+
+        <item name="colorBackgroundFloating">@color/amoledThemeBackground</item>
+        <item name="colorOnBackground">@color/amoledThemeOnBackground</item>
+
+        <item name="snackbarBackgroundColor">@color/amoledThemeSnackbarBackgroundColor</item>
+        <item name="snackbarTextColor">@color/amoledThemeSnackbarTextColor</item>
+        <item name="snackbarButtonColor">@color/amoledThemeSnackbarButtonColor</item>
+    </style>
+
+    <style name="Frames.Default.Amoled" parent="Frames.Default" tools:ignore="NewApi">
+        <item name="colorPrimary">@color/amoledThemePrimary</item>
+        <item name="colorPrimaryDark">@color/amoledThemePrimaryDark</item>
+        <item name="colorAccent">@color/amoledThemeAccent</item>
+
+        <item name="colorPrimaryVariant">@color/amoledThemePrimaryDark</item>
+        <item name="colorOnPrimary">@color/amoledThemeOnPrimary</item>
+
+        <item name="colorSecondary">@color/amoledThemeAccent</item>
+        <item name="colorSecondaryVariant">@color/amoledThemeAccent</item>
+        <item name="colorOnSecondary">@color/amoledThemeOnAccent</item>
+
+        <item name="colorSurface">@color/amoledThemeSurface</item>
+        <item name="colorOnSurface">@color/amoledThemeOnSurface</item>
+
+        <item name="android:windowBackground">@color/amoledThemeBackground</item>
+        <item name="colorBackgroundFloating">@color/amoledThemeBackground</item>
+        <item name="colorOnBackground">@color/amoledThemeOnBackground</item>
+
+        <item name="snackbarBackgroundColor">@color/amoledThemeSnackbarBackgroundColor</item>
+        <item name="snackbarTextColor">@color/amoledThemeSnackbarTextColor</item>
+        <item name="snackbarButtonColor">@color/amoledThemeSnackbarButtonColor</item>
+    </style>
+
+</resources>

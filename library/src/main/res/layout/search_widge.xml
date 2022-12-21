@@ -1,0 +1,30 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/search_widget_background"
+    android:orientation="horizontal"
+    android:id="@+id/search_widge"
+    android:padding="10dp">
+<TextView
+    android:layout_width="0dp"
+    android:layout_height="match_parent"
+    android:layout_weight="0.9"
+    android:text="@string/search"
+    android:layout_gravity="center_vertical|start"
+    android:gravity="center_vertical|start"
+    android:paddingStart="18dp"
+    android:textStyle="bold"
+    android:textColor="@android:color/system_accent1_300"
+    android:textSize="16sp"
+    android:layout_marginEnd="10dp"
+    android:background="@drawable/card_background"/>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:tint="@android:color/system_accent1_300"
+            android:foregroundTint="@android:color/system_accent1_300"
+            android:src="@drawable/ic_search"
+            android:background="@drawable/card_background"></ImageView>
+</LinearLayout>
