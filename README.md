@@ -1,131 +1,37 @@
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/playstore_icon.png" width="192" align="right" hspace="20" />
 
-Frames
+WallSweets
+*based on Frames*
 ======
+Explore a wide variety of hand-made wallpapers in a range of styles
 
-![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
-[![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
-[![Build Status](https://github.com/jahirfiquitiva/Frames/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/jahirfiquitiva/Frames/actions/workflows/build.yml)
-[![Crowdin](https://badges.crowdin.net/Frames/localized.svg)](https://crowdin.com/project/Frames/invite)
+WallSweets delivers a constantly expanding library of wallpapers, for free and ad-free!
 
-Free, feature-rich, easily customizable Android dashboard for wallpapers apps
+App is based on Frames, an open source wallpaper dashboard (https://github.com/jahirfiquitiva/Frames), and it is designed to deliver a fun experience and a breathtaking UI, with a lot of rounded corners and Material You theming (Android 12 and up).
 
-<a target="_blank" href="http://jahir.dev/gh-releases/frames">
-<img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
-</a>
+Wallpapers are grouped into collections so that you can find your style of wallpapers faster.
 
-<a target="_blank" href="https://jahir.dev/donate/">
-<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
+App features a color palette extractor in the 'Info' tab of every wallpaper.
 
-## Show some  :blue_heart:
+Wallpaper updates don't have a schedule, they are released as they are made.
 
-[![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Frames.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Frames)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Frames/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Frames.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Frames)
-
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Follow on Twitter](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
-
----
+WallSweets does not allow commercial use of any wallpaper that is present in the application. If found any such unfair happening, strict actions will be taken against them.
 
 # Previews
 
-### Customizable styles
-
 <p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/1.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/2.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/3.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/4.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/5.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/1.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/2.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/3.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/4.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/5.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/6.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/7.png" height="350"/>
+<img src="https://raw.githubusercontent.com/lazrdev/wallsweetswalls/main/screenshots/8.png" height="350"/>
 </p>
 
-### Full-screen Viewer / Multiple themes
 
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/6.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/7.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/8.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/9.png" height="350"/>
-</p>
-
-### Credits / Settings
-
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/10.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/11.png" height="350"/>
-</p>
-
----
-
-# Features:
-
-- Material Design dashboard.
-- License Checker.
-- Donations.
-- [OneSignal](https://onesignal.com/) notifications ready.
-- Cloud based (only) wallpapers.
-- App can work offline.
-- Categories section.
-- Favorites section.
-- Wallpapers can be applied and downloaded.
-- Wallpapers include a full-screen viewer with zooming capabilities and detailed info viewer.
-- Credits section.
-- Settings section with these options:
-	- Option to change app theme (Light, Dark, System, AMOLED).
-	- Option to color navigation bar (Lollipop+).
-	- Option to clear app cache.
-- Tablet layouts.
-- Lots of customizations.
-- Works with Android 5.0 and newer.
-
-## Help translating
-
-:page_facing_up: Help making Frames available in more languages. [Click here to go to the translation site](https://crowdin.com/project/Frames/invite)
-
-## Changelog
-
-:radio_button: You can find it in the [Releases page](https://github.com/jahirfiquitiva/Frames/releases)
-
----
-
-# Including in your project
-
-Frames is available via Maven, so getting it as simple as adding it as a dependency, like this:
-
-1. Add `MavenCentral` and `Jitpack` to your root `build.gradle` file
-   
-   ```gradle
-   allprojects {
-    repositories {
-        mavenCentral()
-        maven { url 'https://jitpack.io' }
-    }
-   }
-   ```
-2. Add the dependency in your project `build.gradle` file
-   
-   ```gradle
-   dependencies {
-    compile('dev.jahir:Frames:{latest version}@aar') {
-        transitive = true
-    }
-   }
-   ```
-   
-   where `{latest version}` corresponds to published version in   [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
-
-## How to implement
-
-:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Frames/wiki/)**
-
-## Still need help :question:
-Just join our Discord Server and make a post. We'll help you as soon as possible. [![Join chat on Discord](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/78h7xgj)
-
----
-
-# Developed by
+# Dashboard Developed by
 
 ### [Jahir Fiquitiva](https://jahir.dev/)
 
